@@ -1,0 +1,7 @@
+[
+	{ "message": "Hello World!", "username": "Nick" },
+	{ "message": "Come home soon!", "username": "Kalyn" },
+	{ "message": "What's up man!", "username": "Zack" },
+	{ "message": "I love the park!", "username": "Ned" },
+	{ "message": "I love food time!", "username": "Benny" }
+]
